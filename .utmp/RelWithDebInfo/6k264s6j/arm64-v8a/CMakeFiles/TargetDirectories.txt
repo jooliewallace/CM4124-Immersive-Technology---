@@ -1,0 +1,5 @@
+/Users/julieyoungson/Desktop/No Sync.nosync/NewFiles/CM4124-Immersive-Technology---/.utmp/RelWithDebInfo/6k264s6j/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/julieyoungson/Desktop/No Sync.nosync/NewFiles/CM4124-Immersive-Technology---/.utmp/RelWithDebInfo/6k264s6j/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/julieyoungson/Desktop/No Sync.nosync/NewFiles/CM4124-Immersive-Technology---/.utmp/RelWithDebInfo/6k264s6j/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/julieyoungson/Desktop/No Sync.nosync/NewFiles/CM4124-Immersive-Technology---/.utmp/RelWithDebInfo/6k264s6j/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/julieyoungson/Desktop/No Sync.nosync/NewFiles/CM4124-Immersive-Technology---/.utmp/RelWithDebInfo/6k264s6j/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
